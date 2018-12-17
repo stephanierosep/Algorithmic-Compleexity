@@ -1,3 +1,3 @@
 # Algorithmic-Complexity
 
-![Averages Graph](./averages.jpg)
+![Averages Graph](./Images/averages.jpg)
