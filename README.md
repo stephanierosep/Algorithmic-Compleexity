@@ -1,3 +1,3 @@
 # Algorithmic-Complexity
 
-![Averages Graph](./Images/medians.jpg)
+![Averages Graph](./Images/medians.png)
